@@ -1,3 +1,3 @@
 .idea
 node_modules
-build/index.js
+build/run.js
