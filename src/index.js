@@ -1,10 +1,10 @@
 import visitorLastPageDuration from './visitorPreviousPageDuration';
+import visitorPreviousPageHistory from './visitorPreviousPageHistory';
 
-const lastPageDuration = visitorLastPageDuration();
-console.log(lastPageDuration);
+(function(){
+    const lastPageDuration = visitorLastPageDuration();
+    console.log(lastPageDuration);
 
-const values = ["1", "2", "3"];
-const newValues = values.map((value)=>{
-    return value;
-});
-console.log(newValues);
+    const previousPageHistory = visitorPreviousPageHistory();
+    console.log(previousPageHistory);
+})();
