@@ -1,4 +1,4 @@
-"# VisitorGenius"
+### VisitorGenius
 
 
 #### Append script to website
