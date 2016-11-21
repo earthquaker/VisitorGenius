@@ -1,4 +1,4 @@
-import visitorLastPageDuration from './visitorLastPageDuration';
+import visitorLastPageDuration from './visitorPreviousPageDuration';
 
 const lastPageDuration = visitorLastPageDuration();
 console.log(lastPageDuration);
