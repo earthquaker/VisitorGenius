@@ -4,8 +4,7 @@
   "description": "visitor genius",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack"
+    "deploy": "webpack -p && surge ./build"
   },
   "repository": {
     "type": "git",

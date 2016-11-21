@@ -5,6 +5,5 @@ export default function() {
     } else {
         localStorage.setItem('geniusHistory', window.location.href)
     }
-    // TODO: return array??
-    return localStorage.getItem('geniusHistory');
+    return localStorage.getItem('geniusHistory').split(',') || [];
 }
