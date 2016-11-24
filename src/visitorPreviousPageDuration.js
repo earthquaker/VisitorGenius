@@ -5,8 +5,7 @@ export default function() {
         const storedTime = Date.parse(localStorage.geniusSavedTime);
         duration = (currentTime - storedTime) / 1000;
     }
-    // Store New Date
     localStorage.setItem('geniusSavedTime', new Date());
-    // Return Previous Page Duration
+    //TODO: Use cookies instead due to http/https issues? clears localStorage
     return duration;
 }
