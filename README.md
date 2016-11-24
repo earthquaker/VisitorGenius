@@ -16,3 +16,9 @@
 ```
 (s=document.getElementById("visitorGenius")).parentNode.removeChild(s)
 ```
+
+#### Similar shit but not the same?
+```
+http://tealium.com/products/audiencestream/
+https://www.kissmetrics.com/triggers/
+```
