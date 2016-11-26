@@ -27,3 +27,10 @@ https://www.kissmetrics.com/triggers/
 ```
 Visitor Engagement, real time visitor action engage
 ```
+
+#### Features
+```
+Previous Page Duration
+Current Page Duration
+Navigation History
+```
