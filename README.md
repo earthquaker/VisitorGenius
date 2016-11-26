@@ -34,4 +34,5 @@ Previous Page Duration
 Current Page Duration
 Navigation History
 Custom element eventListeners
+Hockup/Listen to object/array changes
 ```
