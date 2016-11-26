@@ -36,3 +36,8 @@ Navigation History
 Custom element eventListeners
 Hockup/Listen to object/array/element changes
 ```
+
+#### Possibilities
+```
+Out of the box integration with GTM for statistics
+```
