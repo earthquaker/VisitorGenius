@@ -41,3 +41,8 @@ Hockup/Listen to object/array/element changes
 ```
 Out of the box integration with GTM for statistics
 ```
+
+#### Things to solve / find a solution for
+```
+Evaluate for SPA applications (where no regular page load is done).
+```
