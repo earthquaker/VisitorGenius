@@ -33,4 +33,5 @@ Visitor Engagement, real time visitor action engage
 Previous Page Duration
 Current Page Duration
 Navigation History
+Custom element eventListeners
 ```
